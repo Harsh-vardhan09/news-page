@@ -1,0 +1,20 @@
+.news-card {
+    display: flex;
+    border: 1px solid #ddd;
+    margin: 1rem;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .news-card img {
+    width: 150px;
+    height: auto;
+  }
+  
+  .news-content {
+    padding: 1rem;
+  }
+  
+  .news-content h3 {
+    margin: 0;
+  }
+  

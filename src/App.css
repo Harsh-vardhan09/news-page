@@ -1,0 +1,23 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.news-list {
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: center; */
+  display: block;
+  width: 90%;
+}
+
+.video-section {
+  margin: 2rem 0;
+  width: 90%;
+  text-align: center;
+}

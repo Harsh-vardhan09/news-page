@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #d32f2f;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .navbar li {
+    cursor: pointer;
+  }
+  input {
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: 1px solid #d32f2f;
+    width: 30%;
+  }
+  
